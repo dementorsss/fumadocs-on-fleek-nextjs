@@ -11,7 +11,7 @@ Fumadocs is a minimalist, fully customizable documentation site built for easy d
 sadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadad
 ## Getting Started
 1. Fork the repositorysadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadad
-2. Clone the repository by running the following command:
+2. Clone the repository by running the following command:sadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadad
 ```bash
 git clone https://github.com/<your-id>/fumadocs-on-fleek.gitsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadssadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadadadadsadadad
 ```sadadad

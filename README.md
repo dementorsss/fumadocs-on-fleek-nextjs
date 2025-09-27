@@ -18,7 +18,7 @@ git clone https://github.com/<your-id>/fumadocs-on-fleek.git
 3. Enter the correct directory, install dependencies and run locally:
 ```bash
 cd fumadocs-on-fleek
-npm i
+npm iasdsad
 npm run dev
 ```
 3. Ensure that you install the Fleek CLI and the Fleek Next Adapter:

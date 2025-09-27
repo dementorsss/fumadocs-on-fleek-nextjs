@@ -13,7 +13,7 @@ Fumadocs is a minimalist, fully customizable documentation site built for easy d
 1. Fork the repository
 2. Clone the repository by running the following command:
 ```bash
-git clone https://github.com/<your-id>/fumadocs-on-fleek.git
+git clone https://github.com/<your-id>/fumadocs-on-fleek.gitsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadad
 ```sadadad
 3. Enter the correct directory, install dependencies and run locally:
 ```bash

@@ -14,7 +14,7 @@ Fumadocs is a minimalist, fully customizable documentation site built for easy d
 2. Clone the repository by running the following command:
 ```bash
 git clone https://github.com/<your-id>/fumadocs-on-fleek.git
-```
+```sadadad
 3. Enter the correct directory, install dependencies and run locally:
 ```bash
 cd fumadocs-on-fleek

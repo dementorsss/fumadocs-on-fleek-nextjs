@@ -3,7 +3,7 @@ This is a Next.js application generated with
 [Create Fumadocs](https://github.com/fuma-nama/fumadocs).
 Fumadocs is a minimalist, fully customizable documentation site built for easy deployment on Fleek. Perfect for showcasing project documentation, this template uses Next.js to deliver a smooth, server-rendered experience.
 
-## Prerequisites sadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadaddadadsadadaddadadsadadaddadadsadadaddadadsadadaddadadsadadaddadadsadadaddadadsadadaddadadsadadaddadadsadadaddadadsadadaddadadsadadaddadadsadadaddadadsadadaddadadsadadad
+## Prerequisites sadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadaddadadsadadaddadadsadadaddadadsadadaddadadsadadaddadadsadadaddadadsadadaddadadsadadaddadadsadadaddadadsadadaddadadsadadaddadadsadadaddadadsadadaddadadsadadaddadadsadadaddadadsadadaddadadsadadad
 - Node 18+
 - Fleek Account
 - [Fleek CLI](https://www.npmjs.com/package/@fleek-platform/cli)

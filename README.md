@@ -23,7 +23,7 @@ npm run dev
 ```
 3. Ensure that you install the Fleek CLI and the Fleek Next Adapter:
 ```bash
-// local installation
+// local installationasdasdadad
 npm i @fleek-platform/cli
 npm i @fleek-platform/next
 

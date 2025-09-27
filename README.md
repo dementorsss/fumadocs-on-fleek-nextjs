@@ -63,7 +63,7 @@ https://hundreds-action-shrilling.functions.on-fleek.app
 
 ## Contributing
 ### Reporting Issues
-- Use GitHub Issues to report bugs or suggest features.
+- Use GitHub Issues to report bugs or suggest features.sss
 - Provide clear details and steps to reproduce any issues.
 
 ### Pull Requests

@@ -13,7 +13,7 @@ sadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadad
 1. Fork the repositorysadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadad
 2. Clone the repository by running the following command:
 ```bash
-git clone https://github.com/<your-id>/fumadocs-on-fleek.gitsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadad
+git clone https://github.com/<your-id>/fumadocs-on-fleek.gitsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadadsadadad
 ```sadadad
 3. Enter the correct directory, install dependencies and run locally:
 ```bash
